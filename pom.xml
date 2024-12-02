@@ -19,6 +19,7 @@
 
     <modules>
         <module>core</module>
+        <module>day1</module>
         <module>dayXTemplate</module>
     </modules>
 
